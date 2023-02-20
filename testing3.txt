@@ -1,1 +1,2 @@
-testing 3 
+this is testing 3 for git 
+testing branching 3 
