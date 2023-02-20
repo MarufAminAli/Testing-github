@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is testing 2 for git 
+=======
+this is testing 2 for git  
+testing branching 2 
+>>>>>>> project-b
